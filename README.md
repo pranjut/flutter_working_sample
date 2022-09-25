@@ -16,5 +16,9 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ## Flutter run
-flutter clean
-fluter pub get
+flutter clean </br>
+flutter build apk </br>
+flutter install </br>
+
+### Make sure emulator is running before flutter install
+### It has worked for the android version pie.
